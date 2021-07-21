@@ -16,7 +16,7 @@ public class SampleTest extends BaseTest{
 	loginPageEvents.enterEmailID();
 	loginPageEvents.cliclonContinueButton();
 	loginPageEvents.enterPassword();
-	loginPageEvents.enterPassword();
+	loginPageEvents.cliclonSignInButton();
 	System.out.println("Logged In");
 	}
 }
