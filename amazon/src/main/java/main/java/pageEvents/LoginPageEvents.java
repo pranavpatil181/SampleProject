@@ -14,7 +14,7 @@ public class LoginPageEvents {
 	}
 	public void enterEmailID() {
 		ElementFetch elementFetch= new ElementFetch();
-		elementFetch.getWebElement("XPATH", LoginPageElements.emailAddress).sendKeys("ppranavpatil181@gmail.com");
+		elementFetch.getWebElement("XPATH", LoginPageElements.emailAddress).sendKeys("pranavpatil181@gmail.com");
 		
 	}
 	public void cliclonContinueButton() {
