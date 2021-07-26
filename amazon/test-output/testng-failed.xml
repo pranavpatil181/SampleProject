@@ -9,8 +9,6 @@
     <classes>
       <class name="test.java.SampleTest">
         <methods>
-          <include name="afterMethodMethod"/>
-          <include name="afterTestMethod"/>
           <include name="beforeMethodMethod"/>
           <include name="sampleMethodForEmailEntering"/>
           <include name="beforeTestMethod"/>
